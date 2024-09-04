@@ -1,0 +1,14 @@
+﻿<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <TargetFramework>net8.0</TargetFramework>
+    <ImplicitUsings>enable</ImplicitUsings>
+    <Nullable>enable</Nullable>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <ProjectReference Include="..\CraftIQ.Inventory.Data\CraftIQ.Inventory.Data.csproj" />
+    <ProjectReference Include="..\CraftIQ.Inventory.Infrastructor\CraftIQ.Inventory.Infrastructor.csproj" />
+  </ItemGroup>
+
+</Project>
